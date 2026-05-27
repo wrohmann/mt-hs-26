@@ -75,10 +75,9 @@ This recomputes the ranking from the frozen submissions and beacon, checks it ag
 ## Primary supervisor
 
 ### Dr. Carlos Cotrini
-*Senior Scientist (Focus Education) · Institute of Machine Learning · ETH Zurich*  
 [ccarlos@inf.ethz.ch](mailto:ccarlos@inf.ethz.ch) · [people.inf.ethz.ch/ccarlos](https://people.inf.ethz.ch/ccarlos/)
 
-Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He holds a doctorate in information security from ETH Zurich (supervisor: Prof. David Basin), where he developed expertise in privacy-preserving machine learning and security analysis. His current research focuses on robust machine learning algorithms, privacy-preserving technologies, and educational methodologies. Recent publications include work on differentially private boosted decision trees (ACM CCS 2024) and automated large-scale analysis of cookie notice compliance (USENIX Security 2024).
+Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He holds a doctorate in information security from ETH Zurich, where he developed expertise in privacy-preserving machine learning and security analysis. His current research focuses on robust machine learning algorithms, privacy-preserving technologies, and educational methodologies.
 
 ---
 
