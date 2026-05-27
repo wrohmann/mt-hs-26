@@ -189,4 +189,4 @@ Strong theses in the MAS AID context typically:
 
 ---
 
-*MAS ETH in AI and Digital Technology · [Department of Computer Science, ETH Zurich](https://inf.ethz.ch/) · [Repository, draw script & procedure](https://github.com/carloscotrini/mas-mt-hs26) · [drand randomness beacon](https://drand.love)*
+*MAS ETH in AI and Digital Technology · [Department of Computer Science, ETH Zurich](https://inf.ethz.ch/)*
