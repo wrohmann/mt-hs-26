@@ -97,8 +97,8 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 | # | Title | Description |
 |---|-------|-------------|
-| WR-1 | *Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself?* | *During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities. * |
-| WR-2 | *Topic title* | *Brief description.* |
+| 1 | *Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself?* | *During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities.* |
+| 2 | *Topic title* | *Brief description.* |
 
 ---
 
@@ -111,8 +111,8 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 | # | Title | Description |
 |---|-------|-------------|
-| CT-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| CT-2 | *Topic title* | *Brief description.* |
+| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| 2 | *Topic title* | *Brief description.* |
 
 ---
 
@@ -125,8 +125,8 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 | # | Title | Description |
 |---|-------|-------------|
-| DR-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| DR-2 | *Topic title* | *Brief description.* |
+| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| 2 | *Topic title* | *Brief description.* |
 
 ---
 
@@ -139,8 +139,8 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 | # | Title | Description |
 |---|-------|-------------|
-| FC-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| FC-2 | *Topic title* | *Brief description.* |
+| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| 2 | *Topic title* | *Brief description.* |
 
 ---
 
@@ -153,8 +153,8 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 | # | Title | Description |
 |---|-------|-------------|
-| GB-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| GB-2 | *Topic title* | *Brief description.* |
+| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| 2 | *Topic title* | *Brief description.* |
 
 ---
 
@@ -167,8 +167,8 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 | # | Title | Description |
 |---|-------|-------------|
-| SL-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| SL-2 | *Topic title* | *Brief description.* |
+| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| 2 | *Topic title* | *Brief description.* |
 
 ---
 
