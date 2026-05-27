@@ -84,11 +84,7 @@ Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He hold
 
 ## Teaching Assistants & Topics
 
-Each TA section below lists their background and the topics they are offering for Path A. TAs are also open to Path B proposals in their research area — send your proposal to the [group address](#contact).
-
----
-
-### Winston Rohmann *(Head TA)*
+### Winston Rohmann (Head TA)
 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
 
 Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. I am happy to support your own ideas and I am looking forward to the problem that we will explore together!
