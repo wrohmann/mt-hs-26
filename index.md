@@ -95,10 +95,10 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 **Offered topics**
 
-| # | Title | Description |
-|---|-------|-------------|
-| 1 | *Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself?* | *During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities.* |
-| 2 | *Topic title* | *Brief description.* |
+| Title | Description |
+|-------|-------------|
+| Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself? | During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities. |
+| *Topic title* | *Brief description.* |
 
 ---
 
@@ -109,10 +109,10 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 **Offered topics**
 
-| # | Title | Description |
-|---|-------|-------------|
-| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| 2 | *Topic title* | *Brief description.* |
+| Title | Description |
+|-------|-------------|
+| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| *Topic title* | *Brief description.* |
 
 ---
 
@@ -123,10 +123,10 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 **Offered topics**
 
-| # | Title | Description |
-|---|-------|-------------|
-| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| 2 | *Topic title* | *Brief description.* |
+| Title | Description |
+|-------|-------------|
+| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| *Topic title* | *Brief description.* |
 
 ---
 
@@ -137,10 +137,10 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 **Offered topics**
 
-| # | Title | Description |
-|---|-------|-------------|
-| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| 2 | *Topic title* | *Brief description.* |
+| Title | Description |
+|-------|-------------|
+| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| *Topic title* | *Brief description.* |
 
 ---
 
@@ -151,10 +151,10 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 **Offered topics**
 
-| # | Title | Description |
-|---|-------|-------------|
-| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| 2 | *Topic title* | *Brief description.* |
+| Title | Description |
+|-------|-------------|
+| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| *Topic title* | *Brief description.* |
 
 ---
 
@@ -165,10 +165,10 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 
 **Offered topics**
 
-| # | Title | Description |
-|---|-------|-------------|
-| 1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| 2 | *Topic title* | *Brief description.* |
+| Title | Description |
+|-------|-------------|
+| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| *Topic title* | *Brief description.* |
 
 ---
 
