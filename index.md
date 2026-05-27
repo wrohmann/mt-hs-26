@@ -23,30 +23,22 @@ Each thesis is co-supervised by Dr. Carlos Cotrini (primary supervisor) and one 
 
 Demand for thesis places typically exceeds the number of slots. To keep the process fair and transparent, places are awarded by a **publicly verifiable random draw** — nobody, not the TAs and not Carlos, can influence or predict who is selected, and anyone can re-check the result.
 
-Each participant ends up sending **one email to one TA** proposing one thesis topic. There are two paths to that email:
+Each participant ends up sending **one email to one TA** proposing one thesis topic. There are two paths:
 
-**Path A — Pick a topic from a TA's list.** Browse the [TA sections](#teaching-assistants--topics) below, choose a topic, and email that TA directly.
-
-**Path B — Propose your own idea.** Draft a short proposal and email it to the [group address](#contact) (all TAs at once). If a TA confirms interest — possibly after a brief conversation — email them individually to finalise.
-
-Both paths end with your name in that TA's selection pool. After the deadline each TA runs an independent draw over their own pool, using a shared public random seed. The rank-1 participant is offered the place; if they decline or do not respond within 48 hours, the offer rolls down to rank 2, then rank 3, and so on within the same TA's pool.
-
----
-
-## Submission paths
-
-### Path A — Pick from a TA's list
+**Path A — Pick a topic from a TA's list.**
 
 1. Browse the [TA sections](#teaching-assistants--topics) below and find a topic that interests you.
 2. Email that TA directly, quoting the topic title and a short statement of motivation (≈ 150 words).
 3. You will receive an automatic **receipt** once the TA acknowledges your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears — by id and topic only, never by name — in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
 
-### Path B — Propose your own idea
+**Path B — Propose your own idea.**
 
-1. Draft a short proposal (title + a few sentences on motivation, expected methods, and deliverable) and email it to **all TAs simultaneously** using the [group address](#contact).
+1. Draft a short proposal (title + a few sentences on motivation, expected methods, and deliverable) and email it to **all TAs simultaneously** at [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch).
 2. One or more TAs may express interest. If interest is conditional, a brief affinity conversation follows so the TA can confirm you are a suitable candidate.
 3. Once a TA confirms interest, email **that TA only** with your final proposal. You will then receive receipt and pool-entry confirmation as in Path A.
 4. If no TA expresses interest by **13 June**, you may revise and resubmit or switch to Path A before the deadline.
+
+Both paths end with your name in that TA's selection pool. After the deadline each TA runs an independent draw over their own pool, using a shared public random seed. The rank-1 participant is offered the place; if they decline or do not respond within 48 hours, the offer rolls down to rank 2, then rank 3, and so on within the same TA's pool.
 
 > **One submission only.** Each participant may enter only one pool with one submission. If multiple submissions from the same participant are detected, all of them are voided. Once you receive pool-entry confirmation you cannot switch paths, change topic, or change TA. Withdraw by emailing the TA before 15 June 23:59.
 
@@ -114,6 +106,21 @@ All theses are co-supervised by Carlos and one TA.
 ## Teaching Assistants & Topics
 
 Each TA section below lists their background and the topics they are offering for Path A. TAs are also open to Path B proposals in their research area — send your proposal to the [group address](#contact).
+
+---
+
+### Winston Rohmann *(Head TA)*
+*[Role] · [Research Group] · ETH Zurich*  
+📧 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
+
+[Bio placeholder — Winston to fill in.]
+
+**Offered topics**
+
+| # | Title | Description |
+|---|-------|-------------|
+| WR-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| WR-2 | *Topic title* | *Brief description.* |
 
 ---
 
@@ -192,21 +199,6 @@ Each TA section below lists their background and the topics they are offering fo
 
 ---
 
-### Winston Rohmann
-*[Role] · [Research Group] · ETH Zurich*  
-📧 [winston.rohmann@\[domain\]](mailto:winston.rohmann@[domain])
-
-[Bio placeholder — Winston to fill in.]
-
-**Offered topics**
-
-| # | Title | Description |
-|---|-------|-------------|
-| WR-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
-| WR-2 | *Topic title* | *Brief description.* |
-
----
-
 ## What makes a strong thesis
 
 Strong theses in the MAS AID context typically:
@@ -224,9 +216,7 @@ TAs are happy to advise on scope during Path B affinity conversations, or by ema
 
 **Path A submissions** go directly to the individual TA whose topic you selected (see their section above).
 
-**Path B proposals** go to the group address: [thesis-proposals@\[domain\]](mailto:thesis-proposals@[domain]) — this reaches all TAs simultaneously.
-
-**General questions** about the process: [ccarlos@inf.ethz.ch](mailto:ccarlos@inf.ethz.ch)
+**Path B proposals and general questions** go to Winston Rohmann (Head TA): [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch) — Path B proposals sent here reach all TAs simultaneously.
 
 > Do not email multiple TAs individually with the same submission. Only Path B group proposals are intended to reach all TAs at once.
 
