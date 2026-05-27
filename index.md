@@ -3,9 +3,7 @@ title: Master's Thesis — MAS ETH in AI and Digital Technology
 layout: default
 ---
 
-# Master's Thesis
-*MAS ETH in AI and Digital Technology · ETH Zurich, D-INFK*  
-**Submission deadline: 15 June 2026, 23:59**
+# Master's Thesis - MAS ETH in AI and Digital Technology
 
 ---
 
@@ -23,48 +21,31 @@ Each thesis is co-supervised by Dr. Carlos Cotrini (primary supervisor) and one 
 
 Demand for thesis places typically exceeds the number of slots. To keep the process fair and transparent, places are awarded by a **publicly verifiable random draw** — nobody, not the TAs and not Carlos, can influence or predict who is selected, and anyone can re-check the result.
 
-Each participant ends up sending **one email to one TA** proposing one thesis topic. There are two paths:
+Each participant ends up sending **one email to the Head TA** proposing one thesis topic. There are two paths:
 
 **Path A — Pick a topic from a TA's list.**
 
 1. Browse the [TA sections](#teaching-assistants--topics) below and find a topic that interests you.
-2. Email that TA directly, quoting the topic title and a short statement of motivation (≈ 150 words).
-3. You will receive an automatic **receipt** once the TA acknowledges your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears — by id and topic only, never by name — in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
+2. Email the Head TA Winston (mailto:wrohmann@ethz.ch) and the thesis TA in cc, quoting the topic title and a short statement of motivation (≈ 150 words).
+3. You will receive an automatic **receipt** once the TA's acknowledge your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears — by id and topic — in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
 
 **Path B — Propose your own idea.**
 
-1. Draft a short proposal (title + a few sentences on motivation, expected methods, and deliverable) and email it to **all TAs simultaneously** at [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch).
-2. One or more TAs may express interest. If interest is conditional, a brief affinity conversation follows so the TA can confirm you are a suitable candidate.
-3. Once a TA confirms interest, email **that TA only** with your final proposal. You will then receive receipt and pool-entry confirmation as in Path A.
-4. If no TA expresses interest by **13 June**, you may revise and resubmit or switch to Path A before the deadline.
+1. Draft a short proposal (title + a few sentences on motivation, expected methods, and deliverable) and email it to Winston [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch).
+2. One or more TA's may express interest. If interest is conditional, a brief affinity conversation follows so the TA can confirm you are a suitable candidate.
+3. Your idea is added to the pool of candidates of one TA and you will then receive receipt and pool-entry confirmation as in Path A.
 
 Both paths end with your name in that TA's selection pool. After the deadline each TA runs an independent draw over their own pool, using a shared public random seed. The rank-1 participant is offered the place; if they decline or do not respond within 48 hours, the offer rolls down to rank 2, then rank 3, and so on within the same TA's pool.
 
-> **One submission only.** Each participant may enter only one pool with one submission. If multiple submissions from the same participant are detected, all of them are voided. Once you receive pool-entry confirmation you cannot switch paths, change topic, or change TA. Withdraw by emailing the TA before 15 June 23:59.
+> **One submission only.** Each participant may enter only one pool with one submission. Withdraw by emailing the Head TA before 15 June 23:59.
 
 ---
 
 ## Selection procedure
 
-The draw is implemented in [`selection.py`](https://github.com/carloscotrini/mas-mt-hs26/blob/main/selection.py) in the [public repository](https://github.com/carloscotrini/mas-mt-hs26). Its fairness rests on three time-stamped, signed Git tags — each one locks in a commitment *before* the information that could game it becomes available:
+The draw is implemented in [`selection.py`](https://github.com/carloscotrini/mas-mt-hs26/blob/main/selection.py) in the [public repository](https://github.com/carloscotrini/mas-mt-hs26). 
 
-| Tag | Created | What it fixes |
-|-----|---------|---------------|
-| `pre-deadline` | Before submissions open | The draw script, verification tooling, and the exact drand round number |
-| `post-deadline` | After deadline, before drand round | The full list of confirmed submissions |
-| `draw` | After drand round is published | The beacon value and the computed `result.json` |
-
-**Scoring.** For each submission the script computes:
-
-```
-score = sha256(f"{beacon_value}|{ta}|{submission_id}")
-```
-
-Within each TA's pool, submissions are sorted by score from smallest to largest. The smallest score is rank 1. Because `beacon_value` is unknown when submission ids are assigned and unknown to everyone until drand publishes it, every entry has an equal 1/*n* chance of rank 1.
-
-**Randomness source.** The beacon value comes from [drand](https://drand.love), a public distributed randomness beacon operated by the League of Entropy. No single party can predict or control its output. The relevant round number is committed under the `pre-deadline` tag before submissions open.
-
-**Verification.** After the `draw` tag is published, anyone can audit the result:
+After the `draw` tag is published, anyone can audit the result:
 
 ```
 pip install -r requirements.txt
@@ -97,7 +78,7 @@ This recomputes the ranking from the frozen submissions and beacon, checks it ag
 *Senior Scientist (Focus Education) · Institute of Machine Learning · ETH Zurich*  
 📧 [ccarlos@inf.ethz.ch](mailto:ccarlos@inf.ethz.ch) · 🌐 [people.inf.ethz.ch/ccarlos](https://people.inf.ethz.ch/ccarlos/)
 
-Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich, working under Prof. Joachim Buhmann. He holds a doctorate in information security from ETH Zurich (supervisor: Prof. David Basin), where he developed expertise in privacy-preserving machine learning and security analysis. His current research focuses on robust machine learning algorithms, privacy-preserving technologies, and educational methodologies. Recent publications include work on differentially private boosted decision trees (ACM CCS 2024) and automated large-scale analysis of cookie notice compliance (USENIX Security 2024).
+Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He holds a doctorate in information security from ETH Zurich (supervisor: Prof. David Basin), where he developed expertise in privacy-preserving machine learning and security analysis. His current research focuses on robust machine learning algorithms, privacy-preserving technologies, and educational methodologies. Recent publications include work on differentially private boosted decision trees (ACM CCS 2024) and automated large-scale analysis of cookie notice compliance (USENIX Security 2024).
 
 All theses are co-supervised by Carlos and one TA.
 
@@ -110,22 +91,20 @@ Each TA section below lists their background and the topics they are offering fo
 ---
 
 ### Winston Rohmann *(Head TA)*
-*[Role] · [Research Group] · ETH Zurich*  
 📧 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
 
-[Bio placeholder — Winston to fill in.]
+Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. I am happy to support your own ideas and I am looking forward to the problem that we will explore together!
 
 **Offered topics**
 
 | # | Title | Description |
 |---|-------|-------------|
-| WR-1 | *Topic title* | *Brief description — to be filled in by 5 June.* |
+| WR-1 | *Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself?* | *During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities. * |
 | WR-2 | *Topic title* | *Brief description.* |
 
 ---
 
-### Christina Tsakanika
-*[Role] · [Research Group] · ETH Zurich*  
+### Christina Tsakanika 
 📧 [christina.tsakanika@\[domain\]](mailto:christina.tsakanika@[domain])
 
 [Bio placeholder — Christina to fill in: 2–3 sentences on research focus, methods, and the kind of student who would thrive working with you.]
@@ -140,7 +119,6 @@ Each TA section below lists their background and the topics they are offering fo
 ---
 
 ### Daniele Russica
-*[Role] · [Research Group] · ETH Zurich*  
 📧 [daniele.russica@\[domain\]](mailto:daniele.russica@[domain])
 
 [Bio placeholder — Daniele to fill in.]
@@ -155,7 +133,6 @@ Each TA section below lists their background and the topics they are offering fo
 ---
 
 ### Francesco Caperna
-*[Role] · [Research Group] · ETH Zurich*  
 📧 [francesco.caperna@\[domain\]](mailto:francesco.caperna@[domain])
 
 [Bio placeholder — Francesco to fill in.]
@@ -170,7 +147,6 @@ Each TA section below lists their background and the topics they are offering fo
 ---
 
 ### Ghali Berbich
-*[Role] · [Research Group] · ETH Zurich*  
 📧 [ghali.berbich@\[domain\]](mailto:ghali.berbich@[domain])
 
 [Bio placeholder — Ghali to fill in.]
@@ -184,8 +160,7 @@ Each TA section below lists their background and the topics they are offering fo
 
 ---
 
-### Syrmatenia Lampaki
-*[Role] · [Research Group] · ETH Zurich*  
+### Syrmatenia Lampaki 
 📧 [syrmatenia.lampaki@\[domain\]](mailto:syrmatenia.lampaki@[domain])
 
 [Bio placeholder — Syrmatenia to fill in.]
