@@ -1,183 +1,129 @@
-# Master Thesis Program HS 2026
+---
+title: Thesis Topic Selection — [Course/Lab Name]
+layout: default
+---
 
-Welcome to the Master Thesis Program for the Fall/Winter 2026 semester. This page provides information about available thesis topics, offered by our faculty advisors (TAs), along with important details about submission paths, selection procedures, deadlines, and contact information.
+# Thesis Topic Selection
+*[Course / Lab Name] · [Year]*  
+**Deadline: [DATE TBD]**
 
 ---
 
-## Faculty Advisors & Thesis Topics
+## How it works
 
-### [Prof. Dr. Alice Weber](#prof-alice-weber)
-### [Prof. Dr. Bob Chen](#prof-bob-chen)
-### [Prof. Dr. Carol Martinez](#prof-carol-martinez)
+Each participant submits **one email to one TA** proposing one thesis topic. There are two paths to reach that final email. Both lead to the same outcome: your name entered into that TA's selection pool for the draw.
 
----
-
-## Prof. Alice Weber {#prof-alice-weber}
-
-**Research Interests:** Machine Learning, Data Science, AI Applications
-
-**Mini CV:**
-Prof. Dr. Alice Weber is a leading researcher in machine learning with over 15 years of experience in academia and industry. She holds a Ph.D. from ETH Zurich and has published extensively in top-tier venues. Her research focuses on practical applications of machine learning to real-world problems.
-
-**Available Thesis Topics:**
-
-1. **"Deep Learning for Time Series Forecasting"** (Type: Research)
-   - Develop novel deep learning architectures for financial time series prediction
-   - Investigate attention mechanisms and transformer models
-   - Expected outcomes: Novel methods with empirical validation
-
-2. **"Explainable AI in Healthcare Applications"** (Type: Application)
-   - Apply XAI techniques to medical diagnosis systems
-   - Create interpretability dashboards for clinicians
-   - Expected outcomes: Prototype system with user studies
-
-3. **"Federated Learning for Privacy-Preserving Analytics"** (Type: Research)
-   - Explore decentralized machine learning approaches
-   - Benchmark privacy-utility trade-offs
-   - Expected outcomes: Novel algorithms and comparative analysis
-
-**Contact:** a.weber@university.edu | Office Hours: Wed 14:00-15:30
+After the submission deadline, each TA draws one email at random from their pool using a [publicly verifiable procedure](#selection-procedure). The selected participant is paired with the TA on the proposed topic, co-supervised by the course instructor and the TA. A maximum of **six theses** will be launched in total.
 
 ---
 
-## Prof. Bob Chen {#prof-bob-chen}
+## Path A — Pick from a TA's list
 
-**Research Interests:** Software Engineering, DevOps, Cloud Computing
+1. Browse the [TA sections](#teaching-assistants--topics) below and find a topic that interests you.
+2. Email that TA directly, quoting the topic title and a short statement of motivation (≈ 150 words).
+3. You will receive an **automatic receipt** immediately, and a **pool-entry confirmation** within 48 h once the TA has acknowledged your submission.
 
-**Mini CV:**
-Prof. Dr. Bob Chen specializes in modern software development practices and cloud-native architectures. With a Ph.D. from UC Berkeley and experience leading engineering teams at major tech companies, he bridges academic research with industrial practice.
+## Path B — Propose your own idea
 
-**Available Thesis Topics:**
+1. Draft a topic proposal (≈ 300 words: title, motivation, expected methods, deliverables) and email it to **all TAs simultaneously** using the [group address](#contact).
+2. One or more TAs may express interest. If interest is conditional, a brief *affinity conversation* follows so the TA can confirm you are a suitable candidate.
+3. Once a TA confirms interest, email **that TA only** with your final proposal. You will then receive pool-entry confirmation.
+4. If no TA expresses interest within 5 working days, you may revise and resubmit, or switch to Path A.
 
-1. **"Microservices Architecture Patterns and Best Practices"** (Type: Application)
-   - Design and implement case studies of microservices migration
-   - Develop guidelines for architecture decisions
-   - Expected outcomes: Reference implementations and guidelines
-
-2. **"Continuous Deployment Pipelines: Automation and Testing"** (Type: Research)
-   - Investigate optimal testing strategies for CD pipelines
-   - Develop tools for automated failure detection
-   - Expected outcomes: Tool and empirical study
-
-3. **"Container Orchestration at Scale"** (Type: Application)
-   - Optimize Kubernetes cluster management
-   - Develop cost optimization strategies
-   - Expected outcomes: Monitoring system and optimization algorithms
-
-**Contact:** b.chen@university.edu | Office Hours: Mon 10:00-11:30, Thu 15:00-16:30
+> **One submission only.** Once you receive pool-entry confirmation you cannot switch paths, change topic, or change TA. Withdraw by emailing the same TA before the deadline.
 
 ---
 
-## Prof. Carol Martinez {#prof-carol-martinez}
+## Selection procedure
 
-**Research Interests:** Human-Computer Interaction, User Experience, Digital Inclusion
+The draw is designed to be **publicly verifiable**: anyone can reproduce the result from public data alone, without trusting the organiser.
 
-**Mini CV:**
-Prof. Dr. Carol Martinez is an HCI researcher with expertise in accessible technology design. She holds a Ph.D. from Stanford University and has led multiple international projects on digital inclusion and inclusive design practices.
+**Commitment step (at deadline).** The instructor commits to the final pool by publishing a hash of the submission list in a public Git commit. The commit hash is announced on this page.
 
-**Available Thesis Topics:**
+**Randomness step (after deadline).** Randomness is sourced from the [drand public randomness beacon](https://drand.love), a decentralised, bias-resistant beacon run by a consortium of independent institutions. The relevant round number is announced in advance.
 
-1. **"Accessible Data Visualization for People with Visual Impairments"** (Type: Research)
-   - Design and evaluate alternative interaction modalities
-   - Conduct user studies with diverse participants
-   - Expected outcomes: Guidelines, prototypes, and empirical validation
+**Draw step.** A deterministic script combines the committed pool with the drand output to select one entry per TA. The script and full inputs are published so the result can be independently verified.
 
-2. **"Mobile App Usability for Older Adults"** (Type: Application)
-   - Develop and test UX patterns for senior users
-   - Create design toolkit for age-inclusive development
-   - Expected outcomes: Design toolkit and case studies
-
-3. **"Cultural Perspectives on Digital Inclusion"** (Type: Research)
-   - Compare technology adoption across different cultural contexts
-   - Develop localization frameworks
-   - Expected outcomes: Comparative analysis and frameworks
-
-**Contact:** c.martinez@university.edu | Office Hours: Tue 13:00-14:30, Fri 11:00-12:00
+The draw script is in the [`draw/` directory of the public repository](https://github.com/[your-org]/[repo]).
 
 ---
 
-## Submission Paths
+## Teaching Assistants & Topics
 
-Each participant ends with **one email** sent to **one TA** proposing **one thesis topic**.
-
-### Path A: Faculty-Proposed Topic
-Pick a topic from a TA's offered list and email that TA directly with your application.
-
-**Steps:**
-1. Browse the thesis topics listed above
-2. Select a topic that interests you
-3. Prepare a brief motivation (why this topic interests you) and relevant background
-4. Email the corresponding TA with your proposal
-
-**Example email:**
-```
-Subject: Master Thesis Application - [Topic Title]
-Dear Prof. [Name],
-I am interested in your thesis topic "[Topic Title]". 
-[Brief statement on your interest and relevant background]
-Best regards,
-[Your name]
-```
-
-### Path B: Self-Proposed Topic
-Propose your own thesis idea to all TAs. If a TA expresses interest, you confirm with them via email.
-
-**Steps:**
-1. Develop a detailed proposal for your thesis idea
-2. Email all three TAs introducing your proposal and seeking interest
-3. The TAs may request "affinity conversations" to determine if you're a suitable candidate for their supervision
-4. Once a TA confirms interest, send them a confirmation email with your thesis topic proposal
-
-**Important:** Path B may require back-and-forth discussion with interested TAs to confirm you are a suitable candidate before the formal email confirmation is sent.
+Each TA section below lists their background and the topics they are offering for Path A. TAs are also open to Path B proposals related to their research area — email the [group address](#contact) with your idea.
 
 ---
 
-## Selection Procedure
+### TA One Name
+*PhD Candidate · [Research Group] · [University]*  
+📧 [ta1@university.edu](mailto:ta1@university.edu)
 
-1. **Submissions:** By the **deadline (October 15, 2026)**, submit your final email to your chosen TA with your proposed thesis topic
+[Short bio: 2–3 sentences. Research focus, methodology, relevant publications or projects. What kind of student would thrive working with you?]
 
-2. **Random Draw:** After the deadline, each TA independently conducts a **publicly verifiable random draw** from their pool of received emails. One participant is selected per TA
+**Offered topics**
 
-3. **Pairing:** The selected participant is paired with the TA on the proposed topic, with **co-supervision** by the program coordinator and the TA
-
-4. **Maximum Capacity:** Up to **six theses** will be accepted across all TAs
-
-5. **Notification:** Selected participants will be notified by **November 1, 2026**
-
-### Publicly Verifiable Random Procedure
-The random selection will be conducted using a transparent method (details to be announced) that allows all participants to verify the fairness of the draw.
-
----
-
-## Important Dates
-
-| Event | Date |
-|-------|------|
-| Submission Deadline | October 15, 2026 |
-| Random Selection Draw | October 16-17, 2026 |
-| Assignment Notifications | November 1, 2026 |
-| Thesis Kickoff Meetings | November 2-15, 2026 |
-| Midterm Presentations | January 15, 2027 |
-| Final Submission Deadline | April 15, 2027 |
-| Thesis Defense Period | May 1-31, 2027 |
+| # | Title | Description |
+|---|-------|-------------|
+| A1 | Topic title goes here | Brief description: what the student will do, what methods they'll use, what the deliverable looks like. 2–4 sentences is ideal. |
+| A2 | Topic title goes here | Brief description. |
+| A3 | Topic title goes here | Brief description. |
 
 ---
 
-## Contact & Information
+### TA Two Name
+*PhD Candidate · [Research Group] · [University]*  
+📧 [ta2@university.edu](mailto:ta2@university.edu)
 
-**Program Coordinator:** Dr. Jennifer Smith  
-**Email:** thesis-coordinator@university.edu  
-**Phone:** +41 (0) 1 634 12 34  
-**Office:** Building A, Room 301
+[Short bio for TA Two.]
 
-**Faculty Advisor Inquiries:**
-- Prof. Alice Weber: a.weber@university.edu
-- Prof. Bob Chen: b.chen@university.edu
-- Prof. Carol Martinez: c.martinez@university.edu
+**Offered topics**
 
-**General Questions:**
-Visit our [FAQ Page](faq.md) or contact the program coordinator.
+| # | Title | Description |
+|---|-------|-------------|
+| B1 | Topic title goes here | Brief description. |
+| B2 | Topic title goes here | Brief description. |
 
 ---
 
-**Last Updated:** May 26, 2026
+### TA Three Name
+*PhD Candidate · [Research Group] · [University]*  
+📧 [ta3@university.edu](mailto:ta3@university.edu)
+
+[Short bio for TA Three.]
+
+**Offered topics**
+
+| # | Title | Description |
+|---|-------|-------------|
+| C1 | Topic title goes here | Brief description. |
+| C2 | Topic title goes here | Brief description. |
+| C3 | Topic title goes here | Brief description. |
+
+---
+
+## Key dates
+
+| Date | Event |
+|------|-------|
+| [DATE TBD] | Site published; submissions open |
+| [DATE TBD] | Path B: proposal emails to all TAs (latest recommended) |
+| **[DATE TBD]** | **Submission deadline — 23:59 [AoE](https://www.timeanddate.com/time/zones/aoe)** |
+| [DATE TBD] | Pool committed (hash published in repo) |
+| [DATE TBD] | drand round used for draw (announced in advance) |
+| [DATE TBD] | Results announced; selected participants contacted |
+
+---
+
+## Contact
+
+**Path A submissions** go directly to the individual TA whose topic you selected (see their section above).
+
+**Path B proposals** go to the group address: [thesis-proposals@\[domain\]](mailto:thesis-proposals@[domain]) — this reaches all TAs simultaneously.
+
+**General questions** about the process: [instructor@\[domain\]](mailto:instructor@[domain])
+
+> Do not send the same submission to multiple TAs individually. Only Path B group proposals are intended to go to all TAs at once.
+
+---
+
+*[Course/Lab Name] · [Institution] · [Year] · [Repository & draw script](https://github.com/[your-org]/[repo]) · [drand randomness beacon](https://drand.love)*
