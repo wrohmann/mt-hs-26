@@ -13,7 +13,7 @@ The master's thesis is the capstone of the [MAS ETH in AI and Digital Technology
 
 Participants write an independent thesis on a topic of their choice that is relevant to their work or personal interest. The topic is freely selectable but must be approved by the thesis supervisor in advance. The final product must be sufficiently rigorous from a science and technology perspective and integrative of the skills developed throughout the programme — it can involve coding, empirical analysis, or system design, and may incorporate policy or market context, but cannot be purely non-technical.
 
-Each thesis is co-supervised by Dr. Carlos Cotrini (primary supervisor) and one TA. The project description is submitted in myStudies and confirmed during the kick-off meeting (22–27 June). **Up to six theses** will be launched in this round, starting 1 July 2026.
+Each thesis is co-supervised by one TA and Dr. Carlos Cotrini. The project description is submitted in myStudies and confirmed during the kick-off meeting (22–27 June). **Up to six theses** will be launched in this round, starting 1 July 2026.
 
 ---
 
@@ -26,7 +26,7 @@ Each participant ends up sending **one email to the Head TA** proposing one thes
 **Path A — Pick a topic from a TA's list.**
 
 1. Browse the [TA sections](#teaching-assistants--topics) below and find a topic that interests you.
-2. Email the Head TA Winston (mailto:wrohmann@ethz.ch) and the thesis TA in cc, quoting the topic title and a short statement of motivation (≈ 150 words).
+2. Email Winston [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch) and the thesis TA in cc, quoting the topic title and a short statement of motivation.
 3. You will receive an automatic **receipt** once the TA's acknowledge your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears — by id and topic — in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
 
 **Path B — Propose your own idea.**
@@ -76,11 +76,9 @@ This recomputes the ranking from the frozen submissions and beacon, checks it ag
 
 ### Dr. Carlos Cotrini
 *Senior Scientist (Focus Education) · Institute of Machine Learning · ETH Zurich*  
-📧 [ccarlos@inf.ethz.ch](mailto:ccarlos@inf.ethz.ch) · 🌐 [people.inf.ethz.ch/ccarlos](https://people.inf.ethz.ch/ccarlos/)
+[ccarlos@inf.ethz.ch](mailto:ccarlos@inf.ethz.ch) · [people.inf.ethz.ch/ccarlos](https://people.inf.ethz.ch/ccarlos/)
 
 Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He holds a doctorate in information security from ETH Zurich (supervisor: Prof. David Basin), where he developed expertise in privacy-preserving machine learning and security analysis. His current research focuses on robust machine learning algorithms, privacy-preserving technologies, and educational methodologies. Recent publications include work on differentially private boosted decision trees (ACM CCS 2024) and automated large-scale analysis of cookie notice compliance (USENIX Security 2024).
-
-All theses are co-supervised by Carlos and one TA.
 
 ---
 
@@ -91,7 +89,7 @@ Each TA section below lists their background and the topics they are offering fo
 ---
 
 ### Winston Rohmann *(Head TA)*
-📧 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
+[wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
 
 Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. I am happy to support your own ideas and I am looking forward to the problem that we will explore together!
 
@@ -105,7 +103,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Christina Tsakanika 
-📧 [christina.tsakanika@\[domain\]](mailto:christina.tsakanika@[domain])
+[christina.tsakanika@\[domain\]](mailto:christina.tsakanika@[domain])
 
 [Bio placeholder — Christina to fill in: 2–3 sentences on research focus, methods, and the kind of student who would thrive working with you.]
 
@@ -119,7 +117,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Daniele Russica
-📧 [daniele.russica@\[domain\]](mailto:daniele.russica@[domain])
+[daniele.russica@\[domain\]](mailto:daniele.russica@[domain])
 
 [Bio placeholder — Daniele to fill in.]
 
@@ -133,7 +131,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Francesco Caperna
-📧 [francesco.caperna@\[domain\]](mailto:francesco.caperna@[domain])
+[francesco.caperna@\[domain\]](mailto:francesco.caperna@[domain])
 
 [Bio placeholder — Francesco to fill in.]
 
@@ -147,7 +145,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Ghali Berbich
-📧 [ghali.berbich@\[domain\]](mailto:ghali.berbich@[domain])
+[ghali.berbich@\[domain\]](mailto:ghali.berbich@[domain])
 
 [Bio placeholder — Ghali to fill in.]
 
@@ -161,7 +159,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Syrmatenia Lampaki 
-📧 [syrmatenia.lampaki@\[domain\]](mailto:syrmatenia.lampaki@[domain])
+[syrmatenia.lampaki@\[domain\]](mailto:syrmatenia.lampaki@[domain])
 
 [Bio placeholder — Syrmatenia to fill in.]
 
@@ -183,17 +181,11 @@ Strong theses in the MAS AID context typically:
 - produce a concrete deliverable — an implemented system, empirical study, technical comparison, or similar artefact
 - are scoped realistically for a part-time effort starting 1 July
 
-TAs are happy to advise on scope during Path B affinity conversations, or by email for Path A topics.
-
 ---
 
 ## Contact
 
-**Path A submissions** go directly to the individual TA whose topic you selected (see their section above).
-
-**Path B proposals and general questions** go to Winston Rohmann (Head TA): [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch) — Path B proposals sent here reach all TAs simultaneously.
-
-> Do not email multiple TAs individually with the same submission. Only Path B group proposals are intended to reach all TAs at once.
+**General questions** go to Winston Rohmann: [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch).
 
 ---
 
