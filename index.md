@@ -126,7 +126,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Francesco Caperna
-[fcaperna@ethz.ch]](mailto:fcaperna@ethz.ch)
+[fcaperna@ethz.ch](mailto:fcaperna@ethz.ch)
 
 Hi, my academic background is in Mathematics and AI. My main interests include LLMs, explainability, Topological Data Analysis, Reinforcement Learning, Graph Neural Networks and the development of ML models for both scientific research and real-world decision-making.
 I am proposing two example thesis directions: the first is more research-oriented, while the second is more applied and business-oriented. These are initial draft ideas and I would be happy to adapt them depending on the student’s interests or to discuss other possible ideas.
