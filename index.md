@@ -126,16 +126,22 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Francesco Caperna
-[francesco.caperna@\[domain\]](mailto:francesco.caperna@[domain])
+[fcaperna@ethz.ch]](mailto:fcaperna@ethz.ch)
 
-[Bio placeholder — Francesco to fill in.]
+Hi, my academic background is in Mathematics and AI. My main interests include LLMs, explainability, Topological Data Analysis, Reinforcement Learning, Graph Neural Networks, and the development of ML models for both scientific research and real-world decision-making.
+I am proposing two example thesis directions: the first is more research-oriented, while the second is more applied and business-oriented. These are initial draft ideas and I would be happy to adapt them depending on the student’s interests or to discuss other possible ideas.
+If you are interested, please feel free to contact me by email.
 
-**Offered topics**
+**Ideas of topics**
 
 | Title | Description |
-|-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
-| *Topic title* | *Brief description.* |
+|---|---|
+|**Interpretable AI in Cancer Research** | During this thesis we would explore how interpretable AI can support biomedical insight discovery in cancer drug response analysis. Building on my previous work on predicting treatment response in cancer cell lines , the project would focus on using machine learning model explanations to identify which samples or drugs behave similarly and why. The goal would be to construct explanation-based similarity graphs that may reveal patterns linked to drug sensitivity, resistance and potential biomarkers. |
+
+| Title | Description |
+|---|---|
+| **From High-Dimensional Customer Data to Structured LLM Recommendations**| During this thesis we would explore how complex customer profiles with many behavioral, transactional and demographic features can be summarized into compact, structured inputs for LLM-based assistants. The project would combine predictive machine learning and interpretability techniques to extract the key drivers behind individual customer outcomes and represent them as structured decision context. This would allow an LLM to generate more grounded, interpretable and personalized recommendations or next-best actions. |
+
 
 ---
 
