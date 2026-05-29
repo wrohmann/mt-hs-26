@@ -136,11 +136,8 @@ If you are interested, please feel free to contact me by email.
 
 | Title | Description |
 |---|---|
-|**Interpretable AI in Cancer Research** | In this thesis, we would explore how interpretable AI can support biomedical insight discovery in cancer drug response analysis. Building on my previous work on predicting treatment response in cancer cell lines , the project would focus on using machine learning model explanations to identify which samples or drugs behave similarly and why. The goal would be to construct explanation-based graphs that may reveal patterns linked to drug sensitivity, resistance and potential biomarkers. |
-
-| Title | Description |
-|---|---|
-| **From High-Dimensional Customer Profiles to LLM Inputs**| In this thesis, we would explore how complex, high-dimensional customer profiles can be summarized into compact, structured inputs for LLMs. The project would combine machine learning and interpretability techniques to identify the key drivers behind individual customer outcomes and translate them into structured representations. These representations would enable LLMs to generate more personalized recommendations or next-best actions. |
+| **Interpretable AI in Cancer Research** | In this thesis, we would explore how interpretable AI can support biomedical insight discovery in cancer drug response analysis. Building on my previous work on predicting treatment response in cancer cell lines, the project would focus on using machine learning model explanations to identify which samples or drugs behave similarly and why. The goal would be to construct explanation-based graphs that may reveal patterns linked to drug sensitivity, resistance, and potential biomarkers. |
+| **From High-Dimensional Customer Profiles to LLM Inputs** | In this thesis, we would explore how complex, high-dimensional customer profiles can be summarized into compact, structured inputs for LLMs. The project would combine machine learning and interpretability techniques to identify the key drivers behind individual customer outcomes and translate them into structured representations. These representations would enable LLMs to generate better personalized recommendations or next-best actions. |
 
 
 ---
