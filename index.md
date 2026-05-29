@@ -98,9 +98,9 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ---
 
 ### Christina Tsakanika 
-[christina.tsakanika@\[domain\]](mailto:christina.tsakanika@[domain])
+[ctsakanika@ethz.ch](mailto:ctsakanika@ethz.ch)
 
-[Bio placeholder — Christina to fill in: 2–3 sentences on research focus, methods, and the kind of student who would thrive working with you.]
+Hello, I'm Christina, currently pursuing an MSc in Electrical Engineering at ETH Zurich with a specialisation in Machine Learning, and working as a Teaching Assistant for Prof. Carlos Cotrini. I hold an integrated BSc & MSc in Computer Science from the National Technical University of Athens, and I have professional experience of 3 years as a software and data engineer. I enjoy collaborating with students, exchanging ideas, exploring different implementation approaches, and working together toward a thesis that delivers a meaningful result! 
 
 **Offered topics**
 
