@@ -140,7 +140,7 @@ If you are interested, please feel free to contact me by email.
 
 | Title | Description |
 |---|---|
-| **From High-Dimensional Customer Data to Structured LLM Recommendations**| In this thesis, we would explore how complex, high-dimensional customer profiles can be summarized into compact, structured inputs for LLMs. The project would combine machine learning and interpretability techniques to identify the key drivers behind individual customer outcomes and translate them into structured representations. These representations would enable LLMs to generate more personalized recommendations or next-best actions. |
+| **From High-Dimensional Customer Profiles to LLM Inputs**| In this thesis, we would explore how complex, high-dimensional customer profiles can be summarized into compact, structured inputs for LLMs. The project would combine machine learning and interpretability techniques to identify the key drivers behind individual customer outcomes and translate them into structured representations. These representations would enable LLMs to generate more personalized recommendations or next-best actions. |
 
 
 ---
