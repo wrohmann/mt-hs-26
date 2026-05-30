@@ -128,7 +128,7 @@ Hello, I'm Christina, currently pursuing an MSc in Electrical Engineering at ETH
 ### Francesco Caperna
 [fcaperna@ethz.ch](mailto:fcaperna@ethz.ch)
 
-Hi, my academic background is in Mathematics and AI. My main interests include LLMs, explainability, Topological Data Analysis, Reinforcement Learning, Agentic AI, Graph Neural Networks and the development of ML models for both scientific research and real-world decision-making.
+Hi, my academic background is in Mathematics and AI. My main interests include LLMs (including security), explainability, Topological Data Analysis, Reinforcement Learning, Agentic AI, Graph Neural Networks and the development of ML models for both scientific research and real-world decision-making.
 I am proposing two example thesis directions: the first is more research-oriented, while the second is more applied and business-oriented. These are initial draft ideas and I would be happy to adapt them depending on the student’s interests or to discuss other possible ideas.
 If you are interested, please feel free to contact me by email.
 
