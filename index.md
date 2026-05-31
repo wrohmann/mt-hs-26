@@ -143,15 +143,15 @@ If you are interested, please feel free to contact me by email.
 ---
 
 ### Ghali Berbich
-[ghali.berbich@\[domain\]](mailto:ghali.berbich@[domain])
+[ghali.berbich@ethz.ch](mailto:ghali.berbich@ethz.ch)
 
-[Bio placeholder — Ghali to fill in.]
+Hi, I'm Ghali, I am a master's student in Computer Science specializing in machine learning. I did my bachelor's in Computer Science and Math and my bachelor thesis was on multimodal generative transformers for video generation. I'm mainly into ML, LLMs and large scale AI but also find the intersections with finance and social sciences pretty interesting. I would be happy to discuss and align on something that fits what you want to explore and covers themes you actually care about. Feel free to reach out!
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| From context limits to organisational substitution: benchmarking LLMs for enterprise roles| LLMs are being deployed across businesses but it remains unclear what they can actually replace and why. This thesis takes a unified approach: benchmarking RAG, fine-tuning and long-context strategies on enterprise tasks stratified by cognitive demand, while grounding the results in what context window size fundamentally constrains mathematically and architecturally. The output is both a practical benchmark and a framework mapping current LLM capabilities onto organisational roles, from routine task execution up to strategic coordination. |
 | *Topic title* | *Brief description.* |
 
 ---
