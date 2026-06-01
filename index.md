@@ -112,9 +112,9 @@ Hello, I'm Christina, currently pursuing an MSc in Electrical Engineering at ETH
 ---
 
 ### Daniele Russica
-[daniele.russica@\[domain\]](mailto:daniele.russica@[domain])
+[drussica@ethz.ch](mailto:drussica@ethz.ch)
 
-[Bio placeholder — Daniele to fill in.]
+Hi, I'm Daniele, currently pursuing a Master in Data Science at ETH Zurich. I hold a Bachelor in Computer Science and Engineering. Past projects I've contributed to range from business automation for a real SME, to GPU acceleration of retrieval methods for approximate nearest-neighbour search, to deep model-based reinforcement learning. I'm interested in probabilistic AI modelling, agentic systems, and model deployment in real-world settings. I'd be happy to discuss your own ideas or any of the topics below — feel free to reach out!
 
 **Offered topics**
 
