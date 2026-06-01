@@ -86,7 +86,7 @@ Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He hold
 ### Winston Rohmann (Head TA)
 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
 
-Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. I am happy to support your own ideas and I am looking forward to the problem that we will explore together!
+Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. One of my last projects was to automate a quality control process and another one involved monte carlo simulations and machine learning. I am a teaching assistant at ETH for more than three years now, where I have also been a student since 2022, when I started my Bachelor's program. I am happy to support your own ideas and I am looking forward to the problem that we will explore together! Although theses are generally written in English, our meetings could be held in German.
 
 **Offered topics**
 
