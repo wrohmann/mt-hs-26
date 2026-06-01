@@ -157,9 +157,9 @@ Hi, I'm Ghali, I am a master's student in Computer Science specializing in machi
 ---
 
 ### Syrmatenia Lampaki 
-[syrmatenia.lampaki@\[domain\]](mailto:syrmatenia.lampaki@[domain])
+[syrmatenia.lampaki@\[domain\]](mailto:slampaki@ethz.ch)
 
-[Bio placeholder — Syrmatenia to fill in.]
+[Currently pursuing a Master's in Physics at ETH Zurich, following an integrated Master's degree in Electrical and Computer Engineering. My research interests lie at the intersection of machine learning, explainable AI, mathematical neuroscience and neuroinformatics, with a particular emphasis on mathematical approaches and on meaningful real-world relevance in medicine and beyond. Beyond the proposal, there is room to reshape the project together depending on your own interests and ideas. I look forward to working on a problem that brings together theoretical depth and real-world relevance, and to the shared learning that naturally comes with exploring it together.]
 
 **Offered topics**
 
