@@ -82,7 +82,7 @@ Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He hold
 
 ## Teaching Assistants & Topics
 
-### Winston Rohmann (Head TA)
+### Winston Rohmann (Admin TA)
 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
 
 Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. One of my last projects was to automate a quality control process and another one involved monte carlo simulations and machine learning. I am a teaching assistant at ETH for more than three years now, where I have also been a student since 2022, when I started my Bachelor's program. I am happy to support your own ideas and I am looking forward to the problem that we will explore together! Although theses are generally written in English, our meetings could be held in German.
@@ -92,8 +92,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 | Title | Description |
 |-------|-------------|
 | Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself? | During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities. |
-| Comparing sovereign and open Swiss LLM Apertus to frontier models to identify potential pathways for corporations | Apertus was developed by the Swiss AI Initiative - a collaboration between EPFL, ETH Zurich, and CSCS - and represents a paradigm shift toward complete transparency in AI development, offering unprecedented access to training data, architecture details, and development processes. It is fully open: open weights, open data, and full training details including all data and training recipes. 
-This thesis aims to explore the cutting edge of two converging forces: AI adoption in regulated industries and the sovereignty vs. capability tradeoff that every corporate board is now navigating.|
+| Comparing sovereign and open Swiss LLM Apertus to frontier models to identify potential pathways for corporations | Apertus was developed by the Swiss AI Initiative - a collaboration between EPFL, ETH Zurich, and CSCS - and represents a paradigm shift toward complete transparency in AI development, offering unprecedented access to training data, architecture details, and development processes. It is fully open: open weights, open data, and full training details including all data and training recipes. The thesis aims to explore the cutting edge of two converging forces: AI adoption in regulated industries and the sovereignty vs. capability tradeoff that every corporate board is now navigating. |
 
 ---
 
