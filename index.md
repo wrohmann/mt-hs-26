@@ -93,8 +93,7 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 |-------|-------------|
 | Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself? | During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities. |
 | Comparing sovereign and open Swiss LLM Apertus to frontier models to identify potential pathways for corporations | Apertus was developed by the Swiss AI Initiative - a collaboration between EPFL, ETH Zurich, and CSCS - and represents a paradigm shift toward complete transparency in AI development, offering unprecedented access to training data, architecture details, and development processes. It is fully open: open weights, open data, and full training details including all data and training recipes. 
-This thesis aims to explore the cutting edge of two converging forces: AI adoption in regulated industries and the sovereignty vs. capability tradeoff that every corporate board is now navigating.
- |
+This thesis aims to explore the cutting edge of two converging forces: AI adoption in regulated industries and the sovereignty vs. capability tradeoff that every corporate board is now navigating.|
 
 ---
 
