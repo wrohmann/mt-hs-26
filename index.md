@@ -113,13 +113,13 @@ Hello, I'm Christina, currently pursuing an MSc in Electrical Engineering at ETH
 ### Daniele Russica
 [drussica@ethz.ch](mailto:drussica@ethz.ch)
 
-Hi, I'm Daniele, currently pursuing a Master in Data Science at ETH Zurich. I hold a Bachelor in Computer Science and Engineering. Past projects I've contributed to range from business automation for a real SME, to GPU acceleration of retrieval methods for approximate nearest-neighbour search, to deep model-based reinforcement learning. I'm interested in probabilistic AI modelling, agentic systems, and model deployment in real-world settings. I'd be happy to discuss your own ideas or any of the topics below — feel free to reach out!
+Hi, I'm Daniele, currently pursuing a Master in Data Science at ETH Zurich. I hold a Bachelor in Computer Science and Engineering. Past projects I've contributed to range from business automation for a real SME, to GPU acceleration of retrieval methods for approximate nearest-neighbour search, to deep model-based reinforcement learning. I'm interested in probabilistic AI modelling, agentic systems, and model deployment in real-world settings. I'd be happy to discuss your own ideas or any of the topics below! Feel free to reach out!
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
+| Learning to Deceive: Can Small Language Models Acquire Strategic Intelligence? | Recent advances in test-time adaptation raise the question of whether small language models can exhibit strategic social behavior without additional training. This thesis evaluates open models in social deduction games and measures how prompting, self-reflection, evolutionary search, and self-play affect deception, persuasion, and coordination. The study also tests whether strategies learned in one game transfer to others, providing evidence on the relationship between model scale, prompt adaptation, and emergent strategic intelligence.|
 | *Topic title* | *Brief description.* |
 
 ---
