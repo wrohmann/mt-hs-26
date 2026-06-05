@@ -120,7 +120,7 @@ Hi, I'm Daniele, currently pursuing a Master in Data Science at ETH Zurich. I ho
 | Title | Description |
 |-------|-------------|
 | Learning to Deceive: Can Small Language Models Acquire Strategic Intelligence? | Recent advances in test-time adaptation raise the question of whether small language models can exhibit strategic social behavior without additional training. This thesis evaluates open models in social deduction games and measures how prompting, self-reflection, evolutionary search, and self-play affect deception, persuasion, and coordination. The study also tests whether strategies learned in one game transfer to others, providing evidence on the relationship between model scale, prompt adaptation, and emergent strategic intelligence.|
-| *Topic title* | *Brief description.* |
+| How Much of the Inbox Can a Local Model Safely Answer? Grounded, Sovereign Admissions Assistance | Schools handle large volumes of admissions inquiries either by hand or with generic chatbots that are not grounded in the school's own information and that send prospect data to third parties. This thesis builds and evaluates a locally-run assistant that drafts each reply by deciding whether to answer the question from a grounded knowledge base, recommend a fitting course when appropriate, or defer the difficult cases to a human. The contribution is two measured questions rather than the prototype: how much reply quality is sacrificed by keeping the system fully local and private, and how much of the workload can be safely automated before a human must step in. Evaluation centres on the quality of replies staff would actually send, testing whether a small, grounded local model that defers its hard cases can rival a far larger remote one.|
 
 ---
 
