@@ -99,14 +99,13 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 ### Christina Tsakanika 
 [ctsakanika@ethz.ch](mailto:ctsakanika@ethz.ch)
 
-Hello, I'm Christina, currently pursuing an MSc in Electrical Engineering at ETH Zurich with a specialisation in Machine Learning, and working as a Teaching Assistant for Prof. Carlos Cotrini. I hold an integrated BSc & MSc in Computer Science from the National Technical University of Athens, and I have professional experience of 3 years as a software and data engineer. I enjoy collaborating with students, exchanging ideas, exploring different implementation approaches, and working together toward a thesis that delivers a meaningful result! 
+Hello, I'm Christina. I hold an MSc in Computer Science from the National Technical University of Athens and have 3 years of professional experience as a software and data engineer. My passion for these fields led me to pursue a second MSc in Electrical Engineering at ETH Zurich with a specialisation in Machine Learning. I am gladly a member of Prof. Carlos Cotrini's teaching assistants' team. Kindly find below my proposed topic. I am very much willing to adjust it to your field of interest or even work with your own topic ideas. I enjoy collaboration and believe that through the exchange of ideas we can shape a thesis that delivers a meaningful result!
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
-| *Topic title* | *Brief description.* |
+| *Learning the Rules of the Game: Self-Reflective Rule Induction for Specialising LLM Agents Through Human Feedback* | When companies deploy LLM agents to interact with their internal systems  through tool use, these agents must follow domain-specific rules and procedures that are often implicit and discovered only when the agent makes a mistake. This thesis investigates a self-reflective learning framework in which a human expert reviews the agent's proposed action plans, provides corrections when errors occur, and the agent uses its own reasoning capabilities to induce general rules from these corrections by building a persistent, interpretable instruction set that grows over time without any model fine-tuning. The central research goal is to achieve measurable improvement in plan quality on unseen tasks through this human-in-the-loop rule induction, and to identify the conditions under which the approach breaks down. The thesis further investigates mitigation strategies for these failure modes.|
 
 ---
 
@@ -150,21 +149,22 @@ Hi, I'm Ghali, I am a master's student in Computer Science specializing in machi
 | Title | Description |
 |-------|-------------|
 | From context limits to organisational substitution: benchmarking LLMs for enterprise roles| LLMs are being deployed across businesses but it remains unclear what they can actually replace and why. This thesis takes a unified approach: benchmarking RAG, fine-tuning and long-context strategies on enterprise tasks stratified by cognitive demand, while grounding the results in what context window size fundamentally constrains mathematically and architecturally. The output is both a practical benchmark and a framework mapping current LLM capabilities onto organisational roles, from routine task execution up to strategic coordination. |
-| *Topic title* | *Brief description.* |
 
 ---
 
 ### Syrmatenia Lampaki 
 [slampaki@ethz.ch](mailto:slampaki@ethz.ch)
 
-Currently pursuing a Master's in Physics at ETH Zurich, following an integrated Master's degree in Electrical and Computer Engineering. My research interests lie at the intersection of machine learning, explainable AI, mathematical neuroscience and neuroinformatics, with a particular emphasis on mathematical approaches and on meaningful real-world relevance in medicine and beyond. Starting from the proposal, there is room to reshape the project together depending on your own interests and ideas. I look forward to working on a problem that brings together theoretical depth and real-world relevance, and to the shared learning that naturally comes with exploring it together.
+Currently pursuing a Master's in Physics at ETH Zurich, following an integrated Master's degree in Electrical and Computer Engineering. My research interests lie at the intersection of machine learning, explainable AI, mathematical neuroscience and neuroinformatics, with a particular emphasis on mathematical approaches and on meaningful real-world relevance in medicine and beyond. Starting from the proposal, there is room to reshape the project together depending on your own interests and ideas. I look forward to working on a problem that brings together theoretical depth and real-world relevance, and to the shared learning that naturally comes with exploring it together. 
+If any of the topics below interest you, please reach out to me beforehand - a prior discussion/introduction is a necessary first step.
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
-| *Topic title* | *Brief description.* |
+| **Interpretable Additive Neural Networks for Causal Discovery in Brain Connectivity** | This project investigates inherently interpretable machine learning for causal-style discovery in multivariate time series, using generalized additive neural networks (Neural Basis Models and IGANN) whose learned feature effects are transparent by construction rather than explained post-hoc. By applying these models with lagged inputs, we study whether their shape functions can be read as directed, predictive dependencies between variables, and evaluate this on two fronts: synthetic data with a known ground-truth structure, where recovery is measured exactly, and real neural recordings (EEG/fMRI), where the approach is demonstrated as a brain-connectivity application. The emphasis is on the machine-learning side (building, applying, and rigorously evaluating the models) with brain connectivity serving as a realistic testbed rather than a source of clinical claims. |
+| **Learning beyond backpropagation (research-oriented, by arrangement)** | A second, deliberately open-ended direction explores biologically inspired alternatives to backpropagation - in the space of predictive coding and local learning rules. This topic is exploratory and research-heavy by nature: the scope is intentionally undefined and would be shaped afterwards. Due to the nature of this project, it is suited to someone with a strong, genuine interest in the area and some relevant background.  |
+
 
 ---
 
