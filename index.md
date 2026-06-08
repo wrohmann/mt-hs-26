@@ -159,14 +159,16 @@ Hi, I'm Ghali, I am a master's student in Computer Science specializing in machi
 ### Syrmatenia Lampaki 
 [slampaki@ethz.ch](mailto:slampaki@ethz.ch)
 
-Currently pursuing a Master's in Physics at ETH Zurich, following an integrated Master's degree in Electrical and Computer Engineering. My research interests lie at the intersection of machine learning, explainable AI, mathematical neuroscience and neuroinformatics, with a particular emphasis on mathematical approaches and on meaningful real-world relevance in medicine and beyond. Starting from the proposal, there is room to reshape the project together depending on your own interests and ideas. I look forward to working on a problem that brings together theoretical depth and real-world relevance, and to the shared learning that naturally comes with exploring it together.
+Currently pursuing a Master's in Physics at ETH Zurich, following an integrated Master's degree in Electrical and Computer Engineering. My research interests lie at the intersection of machine learning, explainable AI, mathematical neuroscience and neuroinformatics, with a particular emphasis on mathematical approaches and on meaningful real-world relevance in medicine and beyond. Starting from the proposal, there is room to reshape the project together depending on your own interests and ideas. I look forward to working on a problem that brings together theoretical depth and real-world relevance, and to the shared learning that naturally comes with exploring it together. 
+If any of the topics below interest you, please reach out to me beforehand - a prior discussion/introduction is a necessary first step.
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
-| *Topic title* | *Brief description.* |
+| **Interpretable Additive Neural Networks for Causal
+Discovery in Brain Connectivity** | This project investigates inherently interpretable machine learning for causal-style discovery in multivariate time series, using generalized additive neural networks (Neural Basis Models and IGANN) whose learned feature effects are transparent by construction rather than explained post-hoc. By applying these models with lagged inputs, we study whether their shape functions can be read as directed, predictive dependencies between variables, and evaluate this on two fronts: synthetic data with a known ground-truth structure, where recovery is measured exactly, and real neural recordings (EEG/fMRI), where the approach is demonstrated as a brain-connectivity application. The emphasis is on the machine-learning side — building, applying, and rigorously evaluating the models — with brain connectivity serving as a realistic testbed rather than a source of clinical claims. |
+| **Learning beyond backpropagation (research-oriented, by arrangement)** | A second, deliberately open-ended direction explores biologically inspired alternatives to backpropagation — in the space of predictive coding and local learning rules. This topic is exploratory and research-heavy by nature: the scope is intentionally undefined and would be shaped afterwards. Due to the nature of this project, it is suited to someone with a strong, genuine interest in the area and some relevant background.  |
 
 ---
 
