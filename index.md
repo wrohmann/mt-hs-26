@@ -51,7 +51,7 @@ After the `draw` tag is published, anyone can audit the result with no setup (Py
 python draw.py
 ```
 
-This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` and writes `result.json`; it must match the published one. You can independently check the random value against the public drand round it is based on. Full details in [README.md](https://github.com/carloscotrini/mas-mt-hs26/blob/main/README.md).
+This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` and writes `result.json`; it must match the published one. You can independently check the random value against the public drand round it is based on: drand quicknet round 29,830,612, published 24 June. Full details in [README.md](https://github.com/carloscotrini/mas-mt-hs26/blob/main/README.md).
 
 ---
 
