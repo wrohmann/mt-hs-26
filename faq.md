@@ -45,7 +45,7 @@
 ### Q: Do affinity conversations need to happen before I send my email?
 **A:** For Path B, yes. "Affinity conversations" with interested TAs should happen before you send your final confirmation email. These discussions help both you and the TA confirm you're a suitable candidate for co-supervision.
 
-For Path A, you can simply email the TA with your application—no prior discussion is required, though you may contact them with questions.
+For Path A, you can simply email the TA with your application; no prior discussion is required, though you may contact them with questions.
 
 ### Q: What happens after I send my email?
 **A:** After you submit your email by the deadline, you will not receive individual confirmation that your application was received. The random draw will be conducted after the **October 15, 2026** deadline, and you will be notified of the results by **November 1, 2026**.
@@ -74,10 +74,10 @@ For Path A, you can simply email the TA with your application—no prior discuss
 **A:** Unfortunately, only six theses total will be accepted (one draw per TA, up to three TAs). If your email isn't drawn, you won't be paired with a TA for this program. You're welcome to discuss future opportunities or alternative arrangements directly with the TAs.
 
 ### Q: What if I believe there was an error in the random procedure?
-**A:** Contact the program coordinator immediately. Because the procedure is publicly verifiable, any error can be detected and corrected. However, the random selection itself cannot be appealed—only procedural errors can be addressed.
+**A:** Contact the program coordinator immediately. Because the procedure is publicly verifiable, any error can be detected and corrected. However, the random selection itself cannot be appealed; only procedural errors can be addressed.
 
 ### Q: Can I increase my chances of being selected?
-**A:** Your chances depend on the size of the TA's email pool, which you cannot control. The best strategy is to propose a strong topic and align with a TA whose research matches your interests—but once the deadline passes, selection is random.
+**A:** Your chances depend on the size of the TA's email pool, which you cannot control. The best strategy is to propose a strong topic and align with a TA whose research matches your interests, but once the deadline passes, selection is random.
 
 ---
 
