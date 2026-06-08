@@ -60,7 +60,6 @@ This recomputes the ranking from the frozen submissions and beacon, checks it ag
 
 | Date | Event |
 |------|-------|
-| 29 May | TAs submit mini-CVs |
 | 5 June | TAs publish thesis topic lists |
 | 8 June | Participants notified by email — submissions open |
 | 13 June | Path B: latest recommended date to send group proposal |
@@ -83,7 +82,7 @@ Carlos is a lecturer at the Institute of Machine Learning at ETH Zurich. He hold
 
 ## Teaching Assistants & Topics
 
-### Winston Rohmann (Head TA)
+### Winston Rohmann (Admin TA)
 [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch)
 
 Hi, as a mechanical engineer currently conducting his own master thesis at ETH and EMPA, I can provide you with research and topic related guidance. One of my last projects was to automate a quality control process and another one involved monte carlo simulations and machine learning. I am a teaching assistant at ETH for more than three years now, where I have also been a student since 2022, when I started my Bachelor's program. I am happy to support your own ideas and I am looking forward to the problem that we will explore together! Although theses are generally written in English, our meetings could be held in German.
@@ -93,35 +92,34 @@ Hi, as a mechanical engineer currently conducting his own master thesis at ETH a
 | Title | Description |
 |-------|-------------|
 | Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself? | During this thesis we would explore the finanical management capabilities of LLM's with a focus on automated information retrieval, prompt engineering and reasoning capabilities. |
-| *Topic title* | *Brief description.* |
+| Comparing sovereign and open Swiss LLM Apertus to frontier models to identify potential pathways for corporations | Apertus was developed by the Swiss AI Initiative - a collaboration between EPFL, ETH Zurich, and CSCS - and represents a paradigm shift toward complete transparency in AI development, offering unprecedented access to training data, architecture details, and development processes. It is fully open: open weights, open data, and full training details including all data and training recipes. The thesis aims to explore the cutting edge of two converging forces: AI adoption in regulated industries and the sovereignty vs. capability tradeoff that every corporate board is now navigating. |
 
 ---
 
 ### Christina Tsakanika 
 [ctsakanika@ethz.ch](mailto:ctsakanika@ethz.ch)
 
-Hello, I'm Christina, currently pursuing an MSc in Electrical Engineering at ETH Zurich with a specialisation in Machine Learning, and working as a Teaching Assistant for Prof. Carlos Cotrini. I hold an integrated BSc & MSc in Computer Science from the National Technical University of Athens, and I have professional experience of 3 years as a software and data engineer. I enjoy collaborating with students, exchanging ideas, exploring different implementation approaches, and working together toward a thesis that delivers a meaningful result! 
+Hello, I'm Christina. I hold an MSc in Computer Science from the National Technical University of Athens and have 3 years of professional experience as a software and data engineer. My passion for these fields led me to pursue a second MSc in Electrical Engineering at ETH Zurich with a specialisation in Machine Learning. I am gladly a member of Prof. Carlos Cotrini's teaching assistants' team. Kindly find below my proposed topic. I am very much willing to adjust it to your field of interest or even work with your own topic ideas. I enjoy collaboration and believe that through the exchange of ideas we can shape a thesis that delivers a meaningful result!
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
-| *Topic title* | *Brief description.* |
+| *Learning the Rules of the Game: Self-Reflective Rule Induction for Specialising LLM Agents Through Human Feedback* | When companies deploy LLM agents to interact with their internal systems  through tool use, these agents must follow domain-specific rules and procedures that are often implicit and discovered only when the agent makes a mistake. This thesis investigates a self-reflective learning framework in which a human expert reviews the agent's proposed action plans, provides corrections when errors occur, and the agent uses its own reasoning capabilities to induce general rules from these corrections by building a persistent, interpretable instruction set that grows over time without any model fine-tuning. The central research goal is to achieve measurable improvement in plan quality on unseen tasks through this human-in-the-loop rule induction, and to identify the conditions under which the approach breaks down. The thesis further investigates mitigation strategies for these failure modes.|
 
 ---
 
 ### Daniele Russica
 [drussica@ethz.ch](mailto:drussica@ethz.ch)
 
-Hi, I'm Daniele, currently pursuing a Master in Data Science at ETH Zurich. I hold a Bachelor in Computer Science and Engineering. Past projects I've contributed to range from business automation for a real SME, to GPU acceleration of retrieval methods for approximate nearest-neighbour search, to deep model-based reinforcement learning. I'm interested in probabilistic AI modelling, agentic systems, and model deployment in real-world settings. I'd be happy to discuss your own ideas or any of the topics below — feel free to reach out!
+Hi, I'm Daniele, currently pursuing a Master in Data Science at ETH Zurich. I hold a Bachelor in Computer Science and Engineering. Past projects I've contributed to range from business automation for a real SME, to GPU acceleration of retrieval methods for approximate nearest-neighbour search, to deep model-based reinforcement learning. I'm interested in probabilistic AI modelling, agentic systems, and model deployment in real-world settings. I'd be happy to discuss your own ideas or any of the topics below! Feel free to reach out!
 
 **Offered topics**
 
 | Title | Description |
 |-------|-------------|
-| *Topic title* | *Brief description — to be filled in by 5 June.* |
-| *Topic title* | *Brief description.* |
+| Learning to Deceive: Can Small Language Models Acquire Strategic Intelligence? | Recent advances in test-time adaptation raise the question of whether small language models can exhibit strategic social behavior without additional training. This thesis evaluates open models in social deduction games and measures how prompting, self-reflection, evolutionary search, and self-play affect deception, persuasion, and coordination. The study also tests whether strategies learned in one game transfer to others, providing evidence on the relationship between model scale, prompt adaptation, and emergent strategic intelligence.|
+| How Much of the Inbox Can a Local Model Safely Answer? Grounded, Sovereign Admissions Assistance | Schools handle large volumes of admissions inquiries either by hand or with generic chatbots that are not grounded in the school's own information and that send prospect data to third parties. This thesis builds and evaluates a locally-run assistant that drafts each reply by deciding whether to answer the question from a grounded knowledge base, recommend a fitting course when appropriate, or defer the difficult cases to a human. The contribution is two measured questions rather than the prototype: how much reply quality is sacrificed by keeping the system fully local and private, and how much of the workload can be safely automated before a human must step in. Evaluation centres on the quality of replies staff would actually send, testing whether a small, grounded local model that defers its hard cases can rival a far larger remote one.|
 
 ---
 
@@ -152,7 +150,6 @@ Hi, I'm Ghali, I am a master's student in Computer Science specializing in machi
 | Title | Description |
 |-------|-------------|
 | From context limits to organisational substitution: benchmarking LLMs for enterprise roles| LLMs are being deployed across businesses but it remains unclear what they can actually replace and why. This thesis takes a unified approach: benchmarking RAG, fine-tuning and long-context strategies on enterprise tasks stratified by cognitive demand, while grounding the results in what context window size fundamentally constrains mathematically and architecturally. The output is both a practical benchmark and a framework mapping current LLM capabilities onto organisational roles, from routine task execution up to strategic coordination. |
-| *Topic title* | *Brief description.* |
 
 ---
 
@@ -166,9 +163,9 @@ If any of the topics below interest you, please reach out to me beforehand - a p
 
 | Title | Description |
 |-------|-------------|
-| **Interpretable Additive Neural Networks for Causal
-Discovery in Brain Connectivity** | This project investigates inherently interpretable machine learning for causal-style discovery in multivariate time series, using generalized additive neural networks (Neural Basis Models and IGANN) whose learned feature effects are transparent by construction rather than explained post-hoc. By applying these models with lagged inputs, we study whether their shape functions can be read as directed, predictive dependencies between variables, and evaluate this on two fronts: synthetic data with a known ground-truth structure, where recovery is measured exactly, and real neural recordings (EEG/fMRI), where the approach is demonstrated as a brain-connectivity application. The emphasis is on the machine-learning side — building, applying, and rigorously evaluating the models — with brain connectivity serving as a realistic testbed rather than a source of clinical claims. |
-| **Learning beyond backpropagation (research-oriented, by arrangement)** | A second, deliberately open-ended direction explores biologically inspired alternatives to backpropagation — in the space of predictive coding and local learning rules. This topic is exploratory and research-heavy by nature: the scope is intentionally undefined and would be shaped afterwards. Due to the nature of this project, it is suited to someone with a strong, genuine interest in the area and some relevant background.  |
+| **Interpretable Additive Neural Networks for Causal Discovery in Brain Connectivity** | This project investigates inherently interpretable machine learning for causal-style discovery in multivariate time series, using generalized additive neural networks (Neural Basis Models and IGANN) whose learned feature effects are transparent by construction rather than explained post-hoc. By applying these models with lagged inputs, we study whether their shape functions can be read as directed, predictive dependencies between variables, and evaluate this on two fronts: synthetic data with a known ground-truth structure, where recovery is measured exactly, and real neural recordings (EEG/fMRI), where the approach is demonstrated as a brain-connectivity application. The emphasis is on the machine-learning side (building, applying, and rigorously evaluating the models) with brain connectivity serving as a realistic testbed rather than a source of clinical claims. |
+| **Learning beyond backpropagation (research-oriented, by arrangement)** | A second, deliberately open-ended direction explores biologically inspired alternatives to backpropagation - in the space of predictive coding and local learning rules. This topic is exploratory and research-heavy by nature: the scope is intentionally undefined and would be shaped afterwards. Due to the nature of this project, it is suited to someone with a strong, genuine interest in the area and some relevant background.  |
+
 
 ---
 
