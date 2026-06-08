@@ -13,7 +13,7 @@ The master's thesis is the capstone of the [MAS ETH in AI and Digital Technology
 
 Participants write an independent thesis on a topic of their choice that is relevant to their work or personal interest. The topic is freely selectable but must be approved by the thesis supervisor in advance. The final product must be sufficiently rigorous from a science and technology perspective and integrative of the skills developed throughout the programme; it can involve coding, empirical analysis, or system design, and may incorporate policy or market context, but cannot be purely non-technical.
 
-Each thesis is co-supervised by one TA and Dr. Carlos Cotrini. The project description is submitted in myStudies and confirmed during the kick-off meeting (22-27 June). **Up to six theses** will be launched in this round, starting 1 July 2026.
+Each thesis is co-supervised by one TA and Dr. Carlos Cotrini. The project description is submitted in myStudies and confirmed during the kick-off meeting (25-30 June). **Up to six theses** will be launched in this round, starting 1 July 2026.
 
 ---
 
@@ -37,7 +37,7 @@ Each participant ends up sending **one email to the Head TA** proposing one thes
 
 Both paths end with your name in that TA's selection pool. After the deadline each TA runs an independent draw over their own pool, using a shared public random seed. The rank-1 participant is offered the place; if they decline or do not respond within 48 hours, the offer rolls down to rank 2, then rank 3, and so on within the same TA's pool.
 
-> **One submission only.** Each participant may enter only one pool with one submission. Withdraw by emailing the Head TA before 15 June 23:59.
+> **One submission only.** Each participant may enter only one pool with one submission. Withdraw by emailing the Head TA before 22 June 23:59.
 
 ---
 
@@ -62,10 +62,10 @@ This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` 
 | 5 June | TAs publish thesis topic lists |
 | 8 June | Participants notified by email; submissions open |
 | 13 June | Path B: latest recommended date to send group proposal |
-| **15 June, 23:59** | **Submission deadline** |
-| 16 June | `frozen` tag published; submissions committed |
-| 19 June | drand round published; `draw` tag and `result.json` published; selected participants notified |
-| 22-27 June | Kick-off meeting with TA; project description submitted in myStudies and confirmed by Carlos |
+| **22 June, 23:59** | **Submission deadline** |
+| 23 June | `frozen` tag published; submissions committed |
+| 24 June | drand round published; `draw` tag and `result.json` published; selected participants notified |
+| 25-30 June | Kick-off meeting with TA; project description submitted in myStudies and confirmed by Carlos |
 | **1 July** | **Thesis start** |
 
 ---
