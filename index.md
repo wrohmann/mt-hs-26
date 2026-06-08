@@ -61,7 +61,7 @@ This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` 
 |------|-------|
 | 5 June | TAs publish thesis topic lists |
 | 8 June | Participants notified by email; submissions open |
-| 13 June | Path B: latest recommended date to send group proposal |
+| 20 June | Path B: latest recommended date to send group proposal |
 | **22 June, 23:59** | **Submission deadline** |
 | 23 June | `frozen` tag published; submissions committed |
 | 24 June | drand round published; `draw` tag and `result.json` published; selected participants notified |
