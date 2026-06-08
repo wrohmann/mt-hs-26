@@ -27,7 +27,7 @@ Each participant ends up sending **one email to the Head TA** proposing one thes
 
 1. Browse the [TA sections](#teaching-assistants--topics) below and find a topic that interests you.
 2. Email Winston [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch) and the thesis TA in cc, quoting the topic title and a short statement of motivation.
-3. You will receive an automatic **receipt** once the TA's acknowledge your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears (by id and topic) in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
+3. You will receive an automatic **receipt** once the TA's acknowledge your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears (by id and topic) in the public list at [`submissions.json`](https://github.com/carloscotrini/mas-mt-hs26/blob/main/submissions.json).
 
 **Path B: Propose your own idea.**
 
@@ -43,16 +43,15 @@ Both paths end with your name in that TA's selection pool. After the deadline ea
 
 ## Selection procedure
 
-The draw is implemented in [`selection.py`](https://github.com/carloscotrini/mas-mt-hs26/blob/main/selection.py) in the [public repository](https://github.com/carloscotrini/mas-mt-hs26). 
+The draw is a single dependency-free script, [`draw.py`](https://github.com/carloscotrini/mas-mt-hs26/blob/main/draw.py), in the [public repository](https://github.com/carloscotrini/mas-mt-hs26). 
 
-After the `draw` tag is published, anyone can audit the result:
+After the `draw` tag is published, anyone can audit the result with no setup (Python standard library only):
 
 ```
-pip install -r requirements.txt
-python verify_draw.py
+python draw.py
 ```
 
-This recomputes the ranking from the frozen submissions and beacon, checks it against the published `result.json`, and verifies the drand cryptographic signature. Full details in [PROCEDURE.md](https://github.com/carloscotrini/mas-mt-hs26/blob/main/PROCEDURE.md).
+This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` and writes `result.json`; it must match the published one. You can independently check the random value against the public drand round it is based on. Full details in [README.md](https://github.com/carloscotrini/mas-mt-hs26/blob/main/README.md).
 
 ---
 
@@ -64,7 +63,7 @@ This recomputes the ranking from the frozen submissions and beacon, checks it ag
 | 8 June | Participants notified by email; submissions open |
 | 13 June | Path B: latest recommended date to send group proposal |
 | **15 June, 23:59** | **Submission deadline** |
-| 16 June | `post-deadline` tag published; pool committed |
+| 16 June | `frozen` tag published; submissions committed |
 | 19 June | drand round published; `draw` tag and `result.json` published; selected participants notified |
 | 22-27 June | Kick-off meeting with TA; project description submitted in myStudies and confirmed by Carlos |
 | **1 July** | **Thesis start** |
