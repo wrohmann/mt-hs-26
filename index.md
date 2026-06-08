@@ -1,5 +1,5 @@
 ---
-title: Master's Thesis — MAS ETH in AI and Digital Technology
+title: Master's Thesis - MAS ETH in AI and Digital Technology
 layout: default
 ---
 
@@ -11,25 +11,25 @@ layout: default
 
 The master's thesis is the capstone of the [MAS ETH in AI and Digital Technology](https://mas-aid.ethz.ch/masaid.html), offered by the Department of Computer Science (D-INFK) at ETH Zurich. It is undertaken in the final phase of the programme, after completing the three CAS components and the AI Project and Cyber Security courses.
 
-Participants write an independent thesis on a topic of their choice that is relevant to their work or personal interest. The topic is freely selectable but must be approved by the thesis supervisor in advance. The final product must be sufficiently rigorous from a science and technology perspective and integrative of the skills developed throughout the programme — it can involve coding, empirical analysis, or system design, and may incorporate policy or market context, but cannot be purely non-technical.
+Participants write an independent thesis on a topic of their choice that is relevant to their work or personal interest. The topic is freely selectable but must be approved by the thesis supervisor in advance. The final product must be sufficiently rigorous from a science and technology perspective and integrative of the skills developed throughout the programme; it can involve coding, empirical analysis, or system design, and may incorporate policy or market context, but cannot be purely non-technical.
 
-Each thesis is co-supervised by one TA and Dr. Carlos Cotrini. The project description is submitted in myStudies and confirmed during the kick-off meeting (22–27 June). **Up to six theses** will be launched in this round, starting 1 July 2026.
+Each thesis is co-supervised by one TA and Dr. Carlos Cotrini. The project description is submitted in myStudies and confirmed during the kick-off meeting (22-27 June). **Up to six theses** will be launched in this round, starting 1 July 2026.
 
 ---
 
 ## How topic selection works
 
-Demand for thesis places typically exceeds the number of slots. To keep the process fair and transparent, places are awarded by a **publicly verifiable random draw** — nobody, not the TAs and not Carlos, can influence or predict who is selected, and anyone can re-check the result.
+Demand for thesis places typically exceeds the number of slots. To keep the process fair and transparent, places are awarded by a **publicly verifiable random draw**: nobody, not the TAs and not Carlos, can influence or predict who is selected, and anyone can re-check the result.
 
 Each participant ends up sending **one email to the Head TA** proposing one thesis topic. There are two paths:
 
-**Path A — Pick a topic from a TA's list.**
+**Path A: Pick a topic from a TA's list.**
 
 1. Browse the [TA sections](#teaching-assistants--topics) below and find a topic that interests you.
 2. Email Winston [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch) and the thesis TA in cc, quoting the topic title and a short statement of motivation.
-3. You will receive an automatic **receipt** once the TA's acknowledge your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears — by id and topic — in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
+3. You will receive an automatic **receipt** once the TA's acknowledge your email, followed by a **pool-entry confirmation** that includes your assigned submission id (a 16-character hex string). From that point your submission appears (by id and topic) in the public list at [`submissions/`](https://github.com/carloscotrini/mas-mt-hs26/tree/main/submissions).
 
-**Path B — Propose your own idea.**
+**Path B: Propose your own idea.**
 
 1. Draft a short proposal (title + a few sentences on motivation, expected methods, and deliverable) and email it to Winston [wrohmann@ethz.ch](mailto:wrohmann@ethz.ch).
 2. One or more TA's may express interest. If interest is conditional, a brief affinity conversation follows so the TA can confirm you are a suitable candidate.
@@ -61,12 +61,12 @@ This recomputes the ranking from the frozen submissions and beacon, checks it ag
 | Date | Event |
 |------|-------|
 | 5 June | TAs publish thesis topic lists |
-| 8 June | Participants notified by email — submissions open |
+| 8 June | Participants notified by email; submissions open |
 | 13 June | Path B: latest recommended date to send group proposal |
 | **15 June, 23:59** | **Submission deadline** |
 | 16 June | `post-deadline` tag published; pool committed |
 | 19 June | drand round published; `draw` tag and `result.json` published; selected participants notified |
-| 22–27 June | Kick-off meeting with TA; project description submitted in myStudies and confirmed by Carlos |
+| 22-27 June | Kick-off meeting with TA; project description submitted in myStudies and confirmed by Carlos |
 | **1 July** | **Thesis start** |
 
 ---
@@ -174,7 +174,7 @@ Strong theses in the MAS AID context typically:
 
 - address a question that is technically grounded (not purely policy or market analysis)
 - draw on methods and concepts from the MAS AID curriculum
-- produce a concrete deliverable — an implemented system, empirical study, technical comparison, or similar artefact
+- produce a concrete deliverable: an implemented system, empirical study, technical comparison, or similar artefact
 - are scoped realistically for a part-time effort starting 1 July
 
 ---
