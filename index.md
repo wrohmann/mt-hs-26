@@ -155,7 +155,7 @@ Hi, I'm Ghali, I am a master's student in Computer Science specializing in machi
 [slampaki@ethz.ch](mailto:slampaki@ethz.ch)
 
 Currently pursuing a Master's in Physics at ETH Zurich, following an integrated Master's degree in Electrical and Computer Engineering. My research interests lie at the intersection of machine learning, explainable AI, mathematical neuroscience and neuroinformatics, with a particular emphasis on mathematical approaches and on meaningful real-world relevance in medicine and beyond. Starting from the proposal, there is room to reshape the project together depending on your own interests and ideas. I look forward to working on a problem that brings together theoretical depth and real-world relevance, and to the shared learning that naturally comes with exploring it together. 
-If any of the topics below interest you, please reach out to me beforehand - a prior discussion/introduction is a necessary first step.
+If any of the topics below interest you, please reach out to me beforehand - a prior discussion/introduction is a necessary first step. Note that the allocation for these topics will not be random but will be based on the best fit.
 
 **Offered topics**
 
