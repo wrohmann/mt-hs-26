@@ -55,6 +55,24 @@ This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` 
 
 ---
 
+## Submitted applications (frozen pool)
+
+These are the submissions for this round, frozen on 23 June 2026, before the draw randomness exists. Only the submission id and topic are public; names are never published. The draw runs 24 June, and the results (by id) will be posted here and in `result.json`. This table mirrors the canonical record, [`submissions.json` at the `frozen` tag](https://github.com/carloscotrini/mas-mt-hs26/blob/frozen/submissions.json).
+
+| Pool (TA) | Submission id | Topic |
+|---|---|---|
+| Winston | `e9dc4fd54f84dabf` | Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself? |
+| Winston | `9c1767dd253b89bb` | Agentic AI for Stock Prediction: Can an LLM Trader Earn Enough to Pay for Itself? |
+| Christina | `a05a145d3eb95a2c` | Learning the Rules of the Game: Self-Reflective Rule Induction for Specialising LLM Agents Through Human Feedback |
+| Christina | `60d4090afd186d20` | Learning the Rules of the Game: Self-Reflective Rule Induction for Specialising LLM Agents Through Human Feedback |
+| Christina | `fe88bf4f9fb35ad3` | Learning the Rules of the Game: Self-Reflective Rule Induction for Specialising LLM Agents Through Human Feedback |
+| Daniele | `fd97716cdeb664c5` | A Cognitive Execution Engine for Autonomous Manufacturing Control (self proposed) |
+| Francesco | `a94a085254848b69` | An Inductive Graph-RAG Pipeline for Cross-Platform Entity Risk & Verification (self proposed) |
+| Ghali | (none) | No submissions this round |
+| Syrmatenia | `18e5dce6aa5133d1` | Interpretable Additive Neural Networks for Causal Discovery in Brain Connectivity |
+
+---
+
 ## Key dates
 
 | Date | Event |
