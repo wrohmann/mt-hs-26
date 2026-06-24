@@ -57,7 +57,7 @@ This recomputes the ranking from the frozen `submissions.json` and `beacon.txt` 
 
 ## Submitted applications (frozen pool)
 
-These are the submissions for this round, frozen on 23 June 2026, before the draw randomness exists. Only the submission id and topic are public; names are never published. The draw runs 24 June, and the results (by id) will be posted here and in `result.json`. This table mirrors the canonical record, [`submissions.json` at the `frozen` tag](https://github.com/carloscotrini/mas-mt-hs26/blob/frozen/submissions.json).
+These are the submissions for this round, frozen on 23 June 2026, before the draw randomness exists. Only the submission id and topic are public; names are never published. The draw was run on 24 June; the result is in the next section and in `result.json`. This table mirrors the canonical record, [`submissions.json` at the `frozen` tag](https://github.com/carloscotrini/mas-mt-hs26/blob/frozen/submissions.json).
 
 | Pool (TA) | Submission id | Topic |
 |---|---|---|
@@ -70,6 +70,24 @@ These are the submissions for this round, frozen on 23 June 2026, before the dra
 | Francesco | `a94a085254848b69` | An Inductive Graph-RAG Pipeline for Cross-Platform Entity Risk & Verification (self proposed) |
 | Ghali | (none) | No submissions this round |
 | Syrmatenia | `18e5dce6aa5133d1` | Interpretable Additive Neural Networks for Causal Discovery in Brain Connectivity |
+
+---
+
+## Draw result
+
+The draw was run on 24 June 2026 using drand quicknet round 29830612 (published that day); the beacon value is in [`beacon.txt`](https://github.com/carloscotrini/mas-mt-hs26/blob/draw/beacon.txt). Within each pool, submissions are ranked by the verifiable score: rank 1 is offered the place (48 hours to accept) and lower ranks form the ordered backup list. The result is fully reproducible: clone the repository at the `draw` tag and run `python draw.py`, then check round 29830612 at drand.
+
+| Pool (TA) | Rank | Submission id | Outcome |
+|---|---|---|---|
+| Winston | 1 | `9c1767dd253b89bb` | selected |
+| Winston | 2 | `e9dc4fd54f84dabf` | backup |
+| Christina | 1 | `a05a145d3eb95a2c` | selected |
+| Christina | 2 | `fe88bf4f9fb35ad3` | backup |
+| Christina | 3 | `60d4090afd186d20` | backup |
+| Daniele | 1 | `fd97716cdeb664c5` | selected |
+| Francesco | 1 | `a94a085254848b69` | selected |
+| Ghali | (none) | (none) | no submissions |
+| Syrmatenia | 1 | `18e5dce6aa5133d1` | selected |
 
 ---
 
